@@ -5,3 +5,4 @@ ultralytics
 numpy
 torch
 torchvision
+d
