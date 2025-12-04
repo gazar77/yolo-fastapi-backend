@@ -1,27 +1,16 @@
 {
-    "annotated_image_url": "/static/results/9d9e90acf2e14e77ac5ccc7fb4e804fd_annotated.jpg",
-    "annotated_image_path": "static/results/9d9e90acf2e14e77ac5ccc7fb4e804fd_annotated.jpg",
+    "annotated_image_url": "/static/results/4bc092ee907947d384bbe4bcfb3a386d_annotated.jpg",
+    "annotated_image_path": "static/results/4bc092ee907947d384bbe4bcfb3a386d_annotated.jpg",
     "detections": [
         {
             "name": "Stenosis",
             "class": 0,
-            "confidence": 0.63085,
+            "confidence": 0.7201,
             "box": {
-                "x1": 77.8741,
-                "y1": 188.20776,
-                "x2": 105.15181,
-                "y2": 254.53389
-            }
-        },
-        {
-            "name": "Stenosis",
-            "class": 0,
-            "confidence": 0.54746,
-            "box": {
-                "x1": 93.36949,
-                "y1": 179.32124,
-                "x2": 113.93335,
-                "y2": 221.88904
+                "x1": 162.97043,
+                "y1": 42.20421,
+                "x2": 205.90955,
+                "y2": 63.27587
             }
         }
     ]
